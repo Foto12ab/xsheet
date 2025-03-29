@@ -1,0 +1,6 @@
+xkits-file>=0.1
+openpyxl
+tabulate
+wcwidth
+xlrd
+xlwt
